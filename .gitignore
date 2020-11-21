@@ -1,0 +1,5 @@
+*.o
+*.exe
+*.out
+
+/1_simplest/simplest
