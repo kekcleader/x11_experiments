@@ -41,3 +41,6 @@ make run
 | Имя / Name | Описание / Description |
 | --------- | ----------- |
 | [1\_simplest](1_simplest/simplest.c) | Создаёт окно. Creates a window. |
+| [2\_rectangles](2_rectangles/rectangles.c) | Рисует в окне два чёрных прямоугольника. Draw two black rectangles in a window. |
+| [3\_pixmaps](3_pixmaps/pixmaps.c) | Выводит картинку по пикселям. Outputs an image pixel by pixel. |
+
